@@ -1,4 +1,4 @@
-# Data-Analysis-and-visualisation-using-python predicting using linear regression
+# Linear regeresion(Mini project)Data-Analysis-and-visualisation-using-python predicting using linear regression
 🧠 Mini Project
 Description:
 This project is a Jupyter Notebook (Miniproject.ipynb) that explores and solves a particular data science / machine learning / analysis task. It contains all the code, visualizations, and detailed commentary needed to understand the project.
