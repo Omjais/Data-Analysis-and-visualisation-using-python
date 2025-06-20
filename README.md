@@ -21,7 +21,7 @@ Python 3.x
 
 Jupyter Notebook
 
-Libraries: NumPy, Pandas, Matplotlib, Scikit-learn (adjust according to what you used)
+Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 
 📂 Files
 File	Description
