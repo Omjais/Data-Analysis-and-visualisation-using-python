@@ -27,31 +27,3 @@ Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 File	Description
 Miniproject.ipynb	Main notebook containing all the code and analysis
 README.md	Project overview and setup instructions
-
-⚙️ How to Run Locally
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/YourUsername/miniproject.git
-cd miniproject
-Install required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-(Create requirements.txt if needed using pip freeze > requirements.txt)
-
-Launch the notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Miniproject.ipynb
-🤝 Contributing
-Feel free to fork the project and submit a pull request!
-
-📄 License
-This project is licensed under the MIT License. See LICENSE file for details.
